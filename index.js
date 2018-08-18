@@ -14,11 +14,11 @@ function　BoardMember(name, homeState, training) {
   this.doCharity = function() {
     return "I like to help people."
   }
+  this.releasePressStatement = function() {
+    return "I like to help people."
+  }
 }
-
-approve — returns You can do that!
-
-doCharity — returns I like to help people.
+ people.
 
 releasePressStatement — returns You will see great things from Scuber.
 
