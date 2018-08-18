@@ -11,6 +11,9 @@ function　BoardMember(name, homeState, training) {
   this.doCharity = function() {
     return "I like to help people."
   }
+  this.doCharity = function() {
+    return "I like to help people."
+  }
 }
 
 approve — returns You can do that!
