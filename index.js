@@ -21,5 +21,3 @@ function　BoardMember(name, homeState, training) {
     return "Hi, my name is $(this.name). I am from $(this.homestate), and I was trained $(this.training)"
   }
 }
-
-sayHi — returns "Hi, my name is <name>. I am from <homestate>, and I was trained in <training>.
